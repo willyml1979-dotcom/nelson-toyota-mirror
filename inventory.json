@@ -1,6 +1,6 @@
 {
   "dealership": "Nelson Toyota",
-  "generated_at": "2026-10-25T14:54:03",
+  "generated_at": "2026-10-26T00:32:53",
   "vehicle_count": 31,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -80,17 +80,6 @@
       "model": "4Runner",
       "condition": "new",
       "price": 68524.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota Corolla SE Upgrade",
-      "vin": "5YFB4MBE0TP000000",
-      "url": "https://willyml1979-dotcom.github.io/nelson-toyota-mirror/new/ff5d4755921c.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Corolla",
-      "condition": "new",
-      "price": 33237.0,
       "price_currency": "CAD"
     },
     {
@@ -201,6 +190,17 @@
       "model": "Sienna",
       "condition": "new",
       "price": 65543.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Toyota Sienna LE AWD",
+      "vin": "5TDGSKFC0TS000000",
+      "url": "https://willyml1979-dotcom.github.io/nelson-toyota-mirror/new/e5c96f7c423e.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Sienna",
+      "condition": "new",
+      "price": 55322.0,
       "price_currency": "CAD"
     },
     {
@@ -338,7 +338,9 @@
       "year": 2027,
       "make": "Toyota",
       "model": "bZ",
-      "condition": "new"
+      "condition": "new",
+      "price": 62961.0,
+      "price_currency": "CAD"
     }
   ]
 }
