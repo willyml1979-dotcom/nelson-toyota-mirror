@@ -1,41 +1,41 @@
 {
   "dealership": "Nelson Toyota",
-  "generated_at": "2026-10-26T08:52:19",
-  "vehicle_count": 31,
+  "generated_at": "2026-11-18T10:49:39",
+  "vehicle_count": 26,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "2012 Toyota Tacoma TRD Sport",
-      "vin": "5TFMU4FNXCX003791",
-      "url": "https://willyml1979-dotcom.github.io/nelson-toyota-mirror/used/9b497e23046d.html",
-      "year": 2012,
+      "name": "2020 Toyota Tacoma TRD Sport",
+      "vin": "5TFDZ5BN0LX055072",
+      "url": "https://willyml1979-dotcom.github.io/nelson-toyota-mirror/used/46b1d13990fe.html",
+      "year": 2020,
       "make": "Toyota",
       "model": "Tacoma",
       "condition": "used",
-      "price": 24995.0,
+      "price": 47995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Toyota Tacoma TRD Off-Road Premium",
-      "vin": "3TYCZ5AN7PT179935",
-      "url": "https://willyml1979-dotcom.github.io/nelson-toyota-mirror/used/007bd1a5397f.html",
+      "name": "2022 Toyota Tundra Limited Hybrid",
+      "vin": "5TFJC5DB6NX007666",
+      "url": "https://willyml1979-dotcom.github.io/nelson-toyota-mirror/used/54d0682812b5.html",
+      "year": 2022,
+      "make": "Toyota",
+      "model": "Tundra",
+      "condition": "used",
+      "price": 56995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Jeep Grand Cherokee Limited",
+      "vin": "1C4RJHBG7P8819533",
+      "url": "https://willyml1979-dotcom.github.io/nelson-toyota-mirror/used/1bd7cbcf15c9.html",
       "year": 2023,
-      "make": "Toyota",
-      "model": "Tacoma",
+      "make": "Jeep",
+      "model": "Grand Cherokee",
       "condition": "used",
-      "price": 49995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Ford Escape Platinum",
-      "vin": "1FMCU9JA3RUA78092",
-      "url": "https://willyml1979-dotcom.github.io/nelson-toyota-mirror/used/365910aa73dc.html",
-      "year": 2024,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "used",
-      "price": 28995.0,
+      "price": 36995.0,
       "price_currency": "CAD"
     },
     {
@@ -46,18 +46,7 @@
       "make": "Hyundai",
       "model": "Tucson",
       "condition": "used",
-      "price": 30995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota 4Runner Limited",
-      "vin": "JTEVA5BR0T5000000",
-      "url": "https://willyml1979-dotcom.github.io/nelson-toyota-mirror/new/b67510ad8860.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "4Runner",
-      "condition": "new",
-      "price": 72706.0,
+      "price": 29995.0,
       "price_currency": "CAD"
     },
     {
@@ -116,17 +105,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota RAV4 XLE AWD",
-      "vin": "2T36CRAV0TC000000",
-      "url": "https://willyml1979-dotcom.github.io/nelson-toyota-mirror/new/c3e617149365.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "RAV4",
-      "condition": "new",
-      "price": 44362.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Toyota RAV4 Woodland",
       "vin": "2T36CRAV0TW000000",
       "url": "https://willyml1979-dotcom.github.io/nelson-toyota-mirror/new/90af8deb8627.html",
@@ -161,7 +139,7 @@
     },
     {
       "name": "2026 Toyota Sienna Platinum Hybrid AWD",
-      "vin": "5TDGSKFC0TS000000",
+      "vin": "5TDGSKFC7TS299557",
       "url": "https://willyml1979-dotcom.github.io/nelson-toyota-mirror/new/9f9059fa5d8c.html",
       "year": 2026,
       "make": "Toyota",
@@ -182,17 +160,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota Sienna XSE AWD Tech Pkg",
-      "vin": "5TDGSKFC0TS000000",
-      "url": "https://willyml1979-dotcom.github.io/nelson-toyota-mirror/new/911e27599fe6.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Sienna",
-      "condition": "new",
-      "price": 65543.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Toyota Sienna LE AWD",
       "vin": "5TDGSKFC0TS000000",
       "url": "https://willyml1979-dotcom.github.io/nelson-toyota-mirror/new/e5c96f7c423e.html",
@@ -201,17 +168,6 @@
       "model": "Sienna",
       "condition": "new",
       "price": 55322.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota Tacoma TRD Off-Road",
-      "vin": "3TYLB5JN0TT000000",
-      "url": "https://willyml1979-dotcom.github.io/nelson-toyota-mirror/new/9328d8dc93a9.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Tacoma",
-      "condition": "new",
-      "price": 55637.0,
       "price_currency": "CAD"
     },
     {
@@ -248,17 +204,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota Tacoma TRD Sport Premium",
-      "vin": "3TYLB5JN0TT000000",
-      "url": "https://willyml1979-dotcom.github.io/nelson-toyota-mirror/new/204284b8e10c.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Tacoma",
-      "condition": "new",
-      "price": 63943.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Toyota Tacoma SR5+",
       "vin": "3TYLB5JN4TT157938",
       "url": "https://willyml1979-dotcom.github.io/nelson-toyota-mirror/new/392645343766.html",
@@ -270,14 +215,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota Tacoma TRD Off-Road",
-      "vin": "3TYLB5JN1TT157072",
-      "url": "https://willyml1979-dotcom.github.io/nelson-toyota-mirror/new/9a230f75850e.html",
+      "name": "2026 Toyota Tacoma TRD Off-Road+",
+      "vin": "3TYLB5JNXTT158253",
+      "url": "https://willyml1979-dotcom.github.io/nelson-toyota-mirror/new/f76371bf0e0b.html",
       "year": 2026,
       "make": "Toyota",
       "model": "Tacoma",
       "condition": "new",
-      "price": 55637.0,
+      "price": 59850.0,
       "price_currency": "CAD"
     },
     {
