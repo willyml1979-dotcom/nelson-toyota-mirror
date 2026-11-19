@@ -1,7 +1,7 @@
 {
   "dealership": "Nelson Toyota",
-  "generated_at": "2026-11-18T10:49:39",
-  "vehicle_count": 26,
+  "generated_at": "2026-11-18T21:09:53",
+  "vehicle_count": 29,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -35,7 +35,18 @@
       "make": "Jeep",
       "model": "Grand Cherokee",
       "condition": "used",
-      "price": 36995.0,
+      "price": 34995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Audi Q3 Komfort",
+      "vin": "WA1AUCF34S1077635",
+      "url": "https://willyml1979-dotcom.github.io/nelson-toyota-mirror/used/3ab7907ea106.html",
+      "year": 2025,
+      "make": "Audi",
+      "model": "Q3",
+      "condition": "used",
+      "price": 35995.0,
       "price_currency": "CAD"
     },
     {
@@ -47,6 +58,17 @@
       "model": "Tucson",
       "condition": "used",
       "price": 29995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Volkswagen Taos Comfortline",
+      "vin": "3VVUC7B25SM071485",
+      "url": "https://willyml1979-dotcom.github.io/nelson-toyota-mirror/used/47e5f64e8efc.html",
+      "year": 2025,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "used",
+      "price": 28995.0,
       "price_currency": "CAD"
     },
     {
@@ -256,6 +278,17 @@
       "model": "Tundra",
       "condition": "new",
       "price": 83307.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Volkswagen Tiguan Comfortline",
+      "vin": "3VVER7RM0TM048157",
+      "url": "https://willyml1979-dotcom.github.io/nelson-toyota-mirror/used/9b5884206bf9.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "used",
+      "price": 36995.0,
       "price_currency": "CAD"
     },
     {

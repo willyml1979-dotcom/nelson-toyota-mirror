@@ -1,6 +1,6 @@
 # Nelson Toyota
 
- dealership in Nelson. AI-readable inventory mirror, about 26 vehicles.
+ dealership in Nelson. AI-readable inventory mirror, about 29 vehicles.
 
 - Official website: https://www.nelsontoyota.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/nelson-toyota-mirror/used/
